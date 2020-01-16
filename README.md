@@ -27,4 +27,4 @@ Minor Bugs & Other Info
 	
 DEVELOPERS
 
-Shivansh Narayan    &    Harsh Kothari
+Harsh Kothari & Shivansh Narayan
